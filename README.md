@@ -69,15 +69,6 @@ The dataset includes **movie and TV show details from Amazon Prime**, consisting
    ```bash
    jupyter notebook
    ```  
-
-## 🤝 Contributing  
-Feel free to **fork this repository, open issues, or submit pull requests** if you want to improve the project!  
-
-## 📝 License  
-This project is licensed under the **MIT License** – free to use and modify.  
-
----
-
 💡 **CineScore AI – Bringing Data-Driven Intelligence to Movie Ratings!** 🎬✨  
 ```
 
