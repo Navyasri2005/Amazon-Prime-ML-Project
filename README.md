@@ -1,4 +1,3 @@
-Here's a **README.md** file for your GitHub repository:  
 
 ```md
 # 🎬 CineScore AI: Intelligent IMDb Rating Predictor 🎥  
@@ -82,4 +81,4 @@ This project is licensed under the **MIT License** – free to use and modify.
 💡 **CineScore AI – Bringing Data-Driven Intelligence to Movie Ratings!** 🎬✨  
 ```
 
-Would you like to add any **badges (e.g., Python version, license, repo stars)** or **update specific values**? 🚀
+
