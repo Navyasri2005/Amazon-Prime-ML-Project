@@ -1,7 +1,7 @@
-````md
+
 # 🎬 CineScore AI: Intelligent IMDb Rating Predictor 🎥  
 
-##  Project Overview  
+ ## Project Overview  
 CineScore AI is a **machine learning-based IMDb score prediction system** that analyzes **movie metadata, genres, ratings, and audience engagement metrics** to predict IMDb scores accurately. The project also explores insights into **what makes a movie successful**, helping **streaming platforms, production studios, and movie enthusiasts** make data-driven decisions.  
 
 ##  Features  
@@ -83,9 +83,6 @@ jupyter notebook
  **CineScore AI – Bringing Data-Driven Intelligence to Movie Ratings!** 
 
 ```
-
----
-
 ###  What I Fixed:
 - Added **spaces after `#`** in all headings.  
 - Closed code fences properly.  
