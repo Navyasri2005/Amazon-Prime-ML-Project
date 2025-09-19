@@ -83,10 +83,5 @@ jupyter notebook
  **CineScore AI – Bringing Data-Driven Intelligence to Movie Ratings!** 
 
 ```
-###  What I Fixed:
-- Added **spaces after `#`** in all headings.  
-- Closed code fences properly.  
-- Converted checkmarks into list items under Features for clean alignment.  
-- Used **bash syntax highlighting** for directory tree and commands.  
 
 
