@@ -82,6 +82,6 @@ jupyter notebook
 
  **CineScore AI – Bringing Data-Driven Intelligence to Movie Ratings!** 
 
-```
+
 
 
